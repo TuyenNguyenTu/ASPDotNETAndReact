@@ -1,0 +1,16 @@
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\bin\Debug\netcoreapp2.1\DemoWebReact.deps.json
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\bin\Debug\netcoreapp2.1\DemoWebReact.runtimeconfig.json
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\bin\Debug\netcoreapp2.1\DemoWebReact.runtimeconfig.dev.json
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\bin\Debug\netcoreapp2.1\DemoWebReact.dll
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\obj\Debug\netcoreapp2.1\DemoWebReact.csprojAssemblyReference.cache
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\obj\Debug\netcoreapp2.1\DemoWebReact.RazorAssemblyInfo.cache
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\obj\Debug\netcoreapp2.1\DemoWebReact.RazorAssemblyInfo.cs
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\obj\Debug\netcoreapp2.1\DemoWebReact.AssemblyInfoInputs.cache
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\obj\Debug\netcoreapp2.1\DemoWebReact.AssemblyInfo.cs
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\obj\Debug\netcoreapp2.1\DemoWebReact.RazorTargetAssemblyInfo.cache
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\bin\Debug\netcoreapp2.1\DemoWebReact.pdb
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\obj\Debug\netcoreapp2.1\DemoWebReact.dll
+E:\Core Project\ReactJsASPCore\DemoWebReact\DemoWebReact\DemoWebReact\obj\Debug\netcoreapp2.1\DemoWebReact.pdb

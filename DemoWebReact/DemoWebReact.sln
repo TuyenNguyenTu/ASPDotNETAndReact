@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebReact", "DemoWebReact\DemoWebReact.csproj", "{52890A73-B36C-40C2-99AC-D7641A6515A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52890A73-B36C-40C2-99AC-D7641A6515A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52890A73-B36C-40C2-99AC-D7641A6515A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52890A73-B36C-40C2-99AC-D7641A6515A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52890A73-B36C-40C2-99AC-D7641A6515A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C622C014-74BE-4B83-8DB4-26EC7876FA09}
+	EndGlobalSection
+EndGlobal
